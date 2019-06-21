@@ -1,0 +1,15 @@
+{
+  "name": "goat-discord",
+  "version": "0.0.0",
+  "description": "baaah",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "youtube-dl": "^2.0.0"
+  }
+}
